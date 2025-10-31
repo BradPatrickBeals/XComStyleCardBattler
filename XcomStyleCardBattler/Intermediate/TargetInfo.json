@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "XcomStyleCardBattler",
+			"Path": "..\\Source\\XcomStyleCardBattler.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "XcomStyleCardBattlerEditor",
+			"Path": "..\\Source\\XcomStyleCardBattlerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

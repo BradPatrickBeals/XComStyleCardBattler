@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unity\\projects\\xcomstylecardbattler\\xcomstylecardbattler\\source\\xcomstylecardbattler\\xcomstylecardbattler.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unity\\projects\\xcomstylecardbattler\\xcomstylecardbattler\\intermediate\\build\\win64\\x64\\xcomstylecardbattlereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unity\\projects\\xcomstylecardbattler\\xcomstylecardbattler\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\xcomstylecardbattler\\definitions.xcomstylecardbattler.h",
+            "d:\\unity\\projects\\xcomstylecardbattler\\xcomstylecardbattler\\source\\xcomstylecardbattler\\xcomstylecardbattler.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

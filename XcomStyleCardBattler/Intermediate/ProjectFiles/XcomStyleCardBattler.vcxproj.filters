@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\XcomStyleCardBattler.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\XcomStyleCardBattler.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\XcomStyleCardBattlerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\XcomStyleCardBattler">
+      <UniqueIdentifier>{78B3F83E-4B2D-39C6-B95B-16BA96A53390}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\XcomStyleCardBattler\XcomStyleCardBattler.Build.cs">
+      <Filter>Source\XcomStyleCardBattler</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\XcomStyleCardBattler\XcomStyleCardBattler.cpp">
+      <Filter>Source\XcomStyleCardBattler</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\XcomStyleCardBattler\XcomStyleCardBattler.h">
+      <Filter>Source\XcomStyleCardBattler</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
