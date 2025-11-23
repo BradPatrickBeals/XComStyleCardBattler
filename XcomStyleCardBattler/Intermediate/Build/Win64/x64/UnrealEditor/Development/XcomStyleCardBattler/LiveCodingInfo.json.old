@@ -1,5 +1,9 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.XcomStyleCardBattler.gen.cpp.obj": [
+			"MapGrid.gen.cpp.obj",
+			"XcomStyleCardBattler.init.gen.cpp.obj"
+		]
 	}
 }

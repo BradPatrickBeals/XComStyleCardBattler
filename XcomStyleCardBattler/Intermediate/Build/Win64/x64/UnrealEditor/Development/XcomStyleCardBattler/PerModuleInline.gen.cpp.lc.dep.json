@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealprojects\\xcomstylecardbattler\\xcomstylecardbattler\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\xcomstylecardbattler\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\xcomstylecardbattler\\xcomstylecardbattler\\intermediate\\build\\win64\\x64\\xcomstylecardbattlereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\xcomstylecardbattler\\xcomstylecardbattler\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\xcomstylecardbattler\\definitions.xcomstylecardbattler.h",
+            "e:\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

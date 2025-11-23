@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XcomStyleCardBattlerModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c983197af400a0f46935dd45d313af6b84a3c16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bf545a00077e5248e0ac7344bac2c58b416ef20")]
 [assembly: System.Reflection.AssemblyProductAttribute("XcomStyleCardBattlerModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XcomStyleCardBattlerModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
